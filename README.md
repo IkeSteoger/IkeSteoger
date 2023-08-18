@@ -11,5 +11,5 @@
   <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" height="250" alt="Cat Typing"/>
 </p>
 
-[![IkeSteoger's GitHub stats](https://github-readme-stats-ike.vercel.app/api?username=ikesteoger)](https://github.com/anuraghazra/github-readme-stats)
+[![IkeSteoger's GitHub stats](https://github-readme-stats-ike.vercel.app/api?username=ikesteoger)](https://github-readme-stats-ike.vercel.app/api?username=ikesteoger)
 
