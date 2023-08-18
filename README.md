@@ -1,4 +1,4 @@
-### Hey there! I’m Ike Steoger, a full stack JavaScript developer looking to continue expanding my skills within code!
+### Hey there! I’m [Ike Steoger](https://www.linkedin.com/in/ikesteoger/), a full stack JavaScript developer looking to continue expanding my skills within code!
 
 - I am currently searching to transition to a career in technology after 10+ years in customer service.
 - I have experience with JavaScript, SQL, HTML5, CSS3, Node.js, React, React Native, Next.js, PostgreSQL, MongoDB, Web Sockets, and AWS.
