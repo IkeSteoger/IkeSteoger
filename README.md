@@ -8,5 +8,9 @@
 - You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/ikesteoger/) or search Ike Steoger!
   
 <p align="center">
-  <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" height="250" alt="Cat Typing"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-ike.vercel.app/api/top-langs/?username=IkeSteoger&show_icons=true&theme=synthwave"  alt"Ike's Github Language Stats"/></a>
+  <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" height="285" alt="Cat Typing"/>
+</p>
+<p align="center">
+  Github Stats Display made by <a href="https://github.com/anuraghazra">Anuraghazra</a>
 </p>
