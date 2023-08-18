@@ -1,4 +1,4 @@
-### Hey there! I’m [Ike Steoger](https://www.linkedin.com/in/ikesteoger/), a full stack JavaScript developer looking to continue expanding my skills within code!
+### Hey there! I’m [Ike Steoger](https://www.linkedin.com/in/ikesteoger/), a full stack JavaScript developer looking to continue expanding my coding skills!
 
 - I am currently searching to transition to a career in technology after 10+ years in customer service.
 - I have experience with JavaScript, SQL, HTML5, CSS3, Node.js, React, React Native, Next.js, PostgreSQL, MongoDB, Web Sockets, and AWS.
@@ -10,3 +10,6 @@
 <p align="center">
   <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" height="250" alt="Cat Typing"/>
 </p>
+
+[![IkeSteoger's GitHub stats](https://github-readme-stats-ike.vercel.app/api?username=ikesteoger)](https://github.com/anuraghazra/github-readme-stats)
+
