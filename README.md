@@ -6,5 +6,5 @@
 - I’m looking to collaborate on learning opportunities! If you have a JavaScript project that needs a hand, I would love to help!
 - You can reach out to me on my [LinkedIn: Ike Steoger](https://www.linkedin.com/in/ikesteoger/)
 <p align="center">
-  <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" alt="Cat Typing"/>
+  <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" height="250" alt="Cat Typing"/>
 </p>
