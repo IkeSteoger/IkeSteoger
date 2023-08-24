@@ -1,7 +1,6 @@
-![IkeSteoger](https://github.com/IkeSteoger/IkeSteoger/assets/125151377/2a12a6fd-65b7-42dc-830e-2a3557660d60)
+[![IkeSteoger](https://github.com/IkeSteoger/IkeSteoger/assets/125151377/2a12a6fd-65b7-42dc-830e-2a3557660d60)](https://www.linkedin.com/in/ikesteoger/)
 
-
-### Hey there! I’m [Ike Steoger](https://www.linkedin.com/in/ikesteoger/), a full stack JavaScript developer looking to continue expanding my coding skills!
+### A Full Stack JavaScript Developer looking for work and to continue expanding my coding skills!
 
 - I am currently searching to transition to a career in technology after 10+ years in customer service.
 - I have experience with JavaScript, SQL, HTML5, CSS3, Node.js, React, React Native, Next.js, PostgreSQL, MongoDB, Web Sockets, and AWS.
