@@ -19,5 +19,5 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a> made by <a href="https://github.com/anuraghazra">Anuraghazra</a> (if not displaying, refresh!)
 </p>
 <p align="center">
-  Header Banner made by <a href="https://www.canva.com/">Canva</a>
+  Header Banner made with <a href="https://www.canva.com/">Canva</a>
 </p>
