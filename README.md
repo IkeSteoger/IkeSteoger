@@ -16,7 +16,7 @@
   <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" height="285" alt="Cat Typing"/>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a> made by <a href="https://github.com/anuraghazra">Anuraghazra</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a> made by <a href="https://github.com/anuraghazra">Anuraghazra</a> (if not displaying, refresh!)
 </p>
 <p align="center">
   Header Banner made by <a href="https://www.canva.com/">Canva</a>
