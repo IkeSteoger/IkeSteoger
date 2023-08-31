@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/ikesteoger/"><img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/2a12a6fd-65b7-42dc-830e-2a3557660d60"  alt"Ike's Github Banner"/></a>
+  <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/2a12a6fd-65b7-42dc-830e-2a3557660d60" href="https://www.linkedin.com/in/ikesteoger/" alt"Ike's Github Banner"/>
 </p>
 
 ### A Full Stack JavaScript Developer looking for work and to continue expanding my coding skills!
