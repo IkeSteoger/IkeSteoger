@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-ike.vercel.app/api/top-langs/?username=IkeSteoger&show_icons=true&theme=synthwave"  alt"Ike's Github Language Stats"/></a>
+  <!--- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-ike.vercel.app/api/top-langs/?username=IkeSteoger&show_icons=true&theme=synthwave"  alt"Ike's Github Language Stats"/></a> --->
   <img src="https://github.com/IkeSteoger/IkeSteoger/assets/125151377/cb8d8f31-2e04-43a5-8aac-366437420815" height="285" alt="Cat Typing"/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkeSteoger&show_icons=true&theme=synthwave"  alt"Ike's Github Language Stats"/></a>
 </p>
