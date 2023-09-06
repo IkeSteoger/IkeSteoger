@@ -22,7 +22,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkeSteoger&show_icons=true&theme=synthwave"  alt"Ike's Github Language Stats"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a> made by <a href="https://github.com/anuraghazra">Anuraghazra</a> (if not displaying, refresh!)
+  <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a> made by <a href="https://github.com/anuraghazra">Anuraghazra</a>
 </p>
 <p align="center">
   Header Banner made with <a href="https://www.canva.com/">Canva</a>
