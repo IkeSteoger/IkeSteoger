@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<h3 align="center">A Full Stack JavaScript Developer looking for work and to continue expanding my coding skills!</h3>
+<h3 align="center">A Full Stack Developer looking for work and to continue expanding my coding skills!</h3>
 
 - I am currently searching to transition to a career in technology after 10+ years in customer service.
 - I have experience with JavaScript, SQL, HTML5, CSS3, Node.js, React, React Native, Next.js, PostgreSQL, MongoDB, Web Sockets, and AWS.
