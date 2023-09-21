@@ -8,7 +8,7 @@
 <h2 align="center">A Full Stack Developer looking for work and to continue expanding my coding skills!</h2>
 <p align="center">
 
-- I am currently searching to transition to a career in technology after 10+ years in customer service.
+- I am currently making a career change to technology after 10+ years in customer service.
 - I have experience with JavaScript, SQL, HTML5, CSS3, Node.js, React, React Native, Next.js, PostgreSQL, MongoDB, Web Sockets, and AWS.
 - I’m currently learning Python, expanding my knowledge on Google API usage, and seek to learn more about game engines such as Godot Engine and GameMaker Studio.
 - I’m interested in playing (and making) video games, riding bikes, and throwing a round of disc golf with friends.
