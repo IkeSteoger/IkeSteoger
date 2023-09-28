@@ -4,12 +4,23 @@
 </a>
 </p>
 
-
 <h2 align="center">A Full Stack Developer looking for work and to continue expanding my coding skills!</h2>
-<p align="center">
 
-- I am currently making a career change to technology after 10+ years in customer service.
-- I have experience with JavaScript, SQL, HTML5, CSS3, Node.js, React, React Native, Next.js, PostgreSQL, MongoDB, Web Sockets, and AWS.
+<h3 align="center">Technologies and Tools!</h3>
+
+<p align="center">
+- Languages: Bash, JavaScript, Python, SQL, CSS, HTML, Markdown
+- Frameworks: React, Bootstrap, Django, Node.js, PyTest, jQuery
+- Tools: Visual Studio Code, Powershell, Git, CLI, Docker, GitHub, Postman
+- Operating Systems: MacOS, Windows OS, Windows Server, Ubuntu OS, Ubuntu Server
+- Platforms: AWS, Windows Active Directory
+- Databases: MongoDB, PostgreSQL
+</p>
+
+<h3 align="center">About Me!</h3>
+
+<p align="center">
+- I am making a career change to technology after 10+ years in customer service.
 - I’m currently learning Python, expanding my knowledge on Google API usage, and seek to learn more about game engines such as Godot Engine and GameMaker Studio.
 - I’m interested in playing (and making) video games, riding bikes, and throwing a round of disc golf with friends.
 - I’m looking to collaborate on learning opportunities. If you have a JavaScript project that needs a hand, I would love to help!
