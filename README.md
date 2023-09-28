@@ -17,8 +17,6 @@
 - Databases: MongoDB, PostgreSQL, AWS DynamoDB
 </p>
 
-Skills and Tools: Node.js, React, React Native, Next.js, Git, GitHub, Agile, VS Code, Visual Studio, PostgreSQL, MongoDB, Netlify, Web Sockets, Expo, AWS EC2, AWS S3, AWS DynamoDB, AWS API Gateway, Slack, Invision, Figma, Excel
-
 <h3>About Me!</h3>
 <p align="center">
 
